@@ -4722,7 +4722,7 @@ SKILL_20150717_004721	Summon Demon type boss{nl}Demon additional attack #{Captio
 SKILL_20150717_004722	Movement speed - #{CaptionRatio}# {nl}Magic circle duration #{CaptionRatio2}#seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 5 seconds
 SKILL_20150717_004723	Make Shogos molded after the card inserted in Necronomicon. The attack and defense of summoned devil will be decided according to character's INT, SPR. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150717_004724	Shogos additional attack #{CaptionRatio}#{nl}Shogos additonal defense #{CaptionRatio2}#{nl}Use{nl} Plant, Beast, Mutant corpse#{CaptionTime}#
-SKILL_20150717_004725	{#DD5500}{ol}[Physidal] - [Stab]{/}{/}{nl}Install trap that bounces off enemy when stepped on.
+SKILL_20150717_004725	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Install trap that bounces off enemy when stepped on.
 SKILL_20150717_004726	Install a Ogue pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
 SKILL_20150717_004727	Physical defense decrease
 SKILL_20150717_004728	Defense decrease
@@ -4736,7 +4736,7 @@ SKILL_20150717_004735	Magic defense increase
 SKILL_20150717_004736	Magic defense increase, Physical defense increase
 SKILL_20150717_004737	Movement speed decrease
 SKILL_20150717_004738	Max SP and Magic DEF increase based on amount of [Cloth] armor equipped and Attribute level (Same weapon types from 3 ~).
-SKILL_20150717_004739	Max HP and Physical DEF increase based on amount of [Plate] armor equipped and Attribute level. (Same weapon types from 3 ~).
+SKILL_20150717_004739	Evasion increases based on amount of [Leather] armor equipped and Attribute level. (Same weapon types from 3 ~).
 SKILL_20150717_004740	Max HP and Physical DEF increase based on amount of [Plate] armor equipped and Attribute level. (Same weapon types from 3 ~).
 SKILL_20150717_004741	Incurs additional 20 damages per Attribute level whenever attack from an enemy's back with dagger.
 SKILL_20150717_004742	Physical damage of [Gung Ho] increases +1, while defense decreases increases +1
